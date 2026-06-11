@@ -1,10 +1,7 @@
 # Task1 - Titanic Data Cleaning And Processing
 
-## Problem Statement
-Clean and prepare the Titanic dataset for analysis by handling missing values, removing duplicates, and improving data quality.
-
 ## Objective
-Prepare raw Titanic data for analysis and machine learning applications.
+Clean and prepare raw data for analysis
 
 ## Dataset Details
 
@@ -14,6 +11,12 @@ Prepare raw Titanic data for analysis and machine learning applications.
 | Domain | Survival Analysis |
 | Records | 891 |
 | Features | Passenger details and survival information |
+
+## Tasks
+Handle missing values
+Remove duplicates
+Convert data types
+Rename columns
 
 ## Approach
 - Handled missing values
